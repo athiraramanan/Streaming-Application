@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is a great Stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Also a great Stream",
+      "id": 2
+    },
+    {
+      "title": "Third  Stream",
+      "description": "Also a great Stream",
+      "id": 3
+    },
+    {
+      "title": "Fourth  Stream",
+      "description": "Also a great Stream",
+      "id": 4
+    },
+    {
+      "title": "My new stream",
+      "description": "its a perfect strem",
+      "userId": "116361457388117962808",
+      "id": 6
+    },
+    {
+      "title": "test stream after edit",
+      "description": "programmatic navigation  after edit",
+      "userId": "116361457388117962808",
+      "id": 8
+    }
+  ]
+}

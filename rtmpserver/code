@@ -1,0 +1,8 @@
+Instead of:
+
+const { NodeMediaServer } = require('node-media-server');
+we need to change the import to this:
+
+const NodeMediaServer = require('node-media-server');
+
+const NodeMediaServer = require('node-media-server');
